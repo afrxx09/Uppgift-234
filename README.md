@@ -5,4 +5,4 @@ Laborationshandledningen hittar du här: https://github.com/1dv404/Laborationer/
 
 Lab 2: Vision
 Har dokumentet på google docs
-[https://docs.google.com/document/d/1yCezKEoPkrVHmRUQS6KGG387UhQza3MEfJdQI46345g/edit?usp=sharing](Lab 2 - vision)
+[Lab 2 - vision](https://docs.google.com/document/d/1yCezKEoPkrVHmRUQS6KGG387UhQza3MEfJdQI46345g/edit?usp=sharing)
