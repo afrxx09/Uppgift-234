@@ -8,8 +8,10 @@ Lab 2
 
 Lab 3
 
-[Kravspecifikation](https://docs.google.com/document/d/1xVo2mJWfkqsBB64y96Tuo51FvWLyKoML9vX8rrw8_gc/edit?usp=sharing)
+[Kravspecifikation](https://docs.google.com/document/d/1xVo2mJWfkqsBB64y96Tuo51FvWLyKoML9vX8rrw8_gc/)
 
-[Use case](https://docs.google.com/document/d/1N-bVL-2KI_uQUcLf0pVm7f1uEfKcrg5MDVdvLhLGSRY/edit?usp=sharing)
+[Use case - Casual](https://docs.google.com/document/d/1NPXweOdY1XG80BeO1IKTxGb2t2Oh2KmbgCG51gavSTY/)
 
-[Kravlista](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dEV2VnM5N3ZRZjJHdU1XVFcwSlRmQ3c&usp=sharing)
+[Use case - Fully dressed](https://docs.google.com/document/d/1N-bVL-2KI_uQUcLf0pVm7f1uEfKcrg5MDVdvLhLGSRY/)
+
+[Kravlista](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dEV2VnM5N3ZRZjJHdU1XVFcwSlRmQ3c)
