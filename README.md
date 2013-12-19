@@ -15,3 +15,7 @@ Lab 3
 [Use case - Fully dressed](https://docs.google.com/document/d/1N-bVL-2KI_uQUcLf0pVm7f1uEfKcrg5MDVdvLhLGSRY/)
 
 [Kravlista](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dEV2VnM5N3ZRZjJHdU1XVFcwSlRmQ3c)
+
+Lab 4
+
+[Testfall](https://docs.google.com/document/d/1KgvCw_JEenH6b6GZMM3cwim8_RtEmy1f5NNjbGm5mq8/)
